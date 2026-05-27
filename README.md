@@ -37,5 +37,5 @@ To meet industrial standards and enhance functionality, this design incorporates
 * **Engineered Tolerances:** Every mounting hole and interface is calculated to account for material shrinkage and laser kerf, ensuring "first-time-right" assembly.
 
 ---
-**Developed by:** [Thamonwan S.]  
-**Academic Year:** 2025
+**Developed by:** Thamonwan S.
+**Academic Year:** 2025 / Chulalongkorn U.
