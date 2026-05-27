@@ -35,9 +35,9 @@ To meet industrial standards and enhance functionality, this design incorporates
 | Category | Component | Specification | Qty |
 | :--- | :--- | :--- | :--- |
 | **Advanced Part** | Adapter Plates | **Stainless Steel 304 (Laser Cut)** | 2 |
-| **Custom Part** | Main Base | 10mm Reinforced Polymer (3D Printed) | 1 |
+| **Custom Part** | Main Base | Reinforced Polymer (3D Printed) | 9 |
 | **Industrial** | Shaft Coupling | Flexible Aluminum Coupling | 1 |
-| **Commercial** | Fasteners | M3 Socket Head Screws & Hex Nuts | 12 |
+| **Commercial** | Fasteners | M3 Socket Head Screws & Hex Nuts | 35 |
 | **Electronics** | Vision Unit | ESP32-CAM & High-Torque Mini Servos | 1 |
 
 ---
@@ -48,5 +48,5 @@ To meet industrial standards and enhance functionality, this design incorporates
 * **Engineered Tolerances:** Every mounting hole and interface is calculated to account for material shrinkage and laser kerf, ensuring "first-time-right" assembly.
 
 ---
-**Developed by:** [Your Name/Team Name]  
-**Academic Year:** 2026
+**Developed by:** [Thamonwan S.]  
+**Academic Year:** 2025
