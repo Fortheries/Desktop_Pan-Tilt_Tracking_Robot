@@ -38,4 +38,3 @@ To meet industrial standards and enhance functionality, this design incorporates
 
 ---
 **Developed by:** Thamonwan S.
-**Academic Year:** 2025 / Chulalongkorn U.
