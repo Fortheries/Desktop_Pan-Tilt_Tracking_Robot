@@ -3,7 +3,7 @@ A professional engineering project demonstrating advanced CAD expertise, structu
 
 ---
 
-## 💎 Advanced Engineering & Complexity
+##  Advanced Engineering & Complexity
 To meet industrial standards and enhance functionality, this design incorporates **Advanced Hybrid Manufacturing** techniques:
 
 * **Precision Sheet Metal Modeling:** The Adapter Plates are designed using specialized Sheet Metal tools to ensure accurate flat-pattern generation for CNC Laser Cutting.
@@ -22,18 +22,18 @@ To meet industrial standards and enhance functionality, this design incorporates
 
 ---
 
-## 📁 Repository Structure
-* 📂 **`Models/`** - Master `.F3Z` (Assembly) and `.STEP` files with complete design history/timeline.
-* 📂 **`Simulation/`** - Structural analysis reports, Safety Factor, and Displacement heatmaps.
-* 📂 **`Renders/`** - High-resolution photorealistic images of the final Desktop Tracking Robot.
-* 📂 **`Fabrication/`** - Production-ready DXF files, and 3D printing meshes.
-* 📂 **`Documentation/`** - Detailed Bill of Materials (BOM) and component specifications.
+##  Repository Structure
+* **`Models/`** - Master `.F3Z` (Assembly) and `.STEP` files with complete design history/timeline.
+* **`Simulation/`** - Structural analysis reports, Safety Factor, and Displacement heatmaps.
+* **`Renders/`** - High-resolution photorealistic images of the final Desktop Tracking Robot.
+*  **`Fabrication/`** - Production-ready DXF files, and 3D printing meshes.
+*  **`Documentation/`** - Detailed Bill of Materials (BOM) and component specifications.
 
 ---
 
-## 🚀 Key Features
+## Key Features
 * **Ultra-Rigid SS Interface:** Dual stainless steel adapters provide a zero-flex platform, crucial for high-speed camera stabilization.
-* **Modular Mounting:** 20x12mm mounting pattern allows for seamless sensor swapping without structural redesign.
+* **Modular Mounting:** mounting pattern allows for seamless sensor swapping without structural redesign.
 * **Engineered Tolerances:** Every mounting hole and interface is calculated to account for material shrinkage and laser kerf, ensuring "first-time-right" assembly.
 
 ---
