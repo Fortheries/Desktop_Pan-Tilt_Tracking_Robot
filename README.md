@@ -12,7 +12,7 @@ To meet industrial standards and enhance functionality, this design incorporates
 
 ---
 
-## 🛠 Project Deliverables (Compliance with Requirements a-f)
+##  Project Deliverables (Compliance with Requirements a-f)
 * **(a) Part Modeling:** Sophisticated solid modeling for the 10mm base and precision sheet metal modeling for the adapters.
 * **(b) Assembly:** Full mechanical assembly with constrained joints, motion limits, and integrated industrial hardware.
 * **(c) Simulation:** Static stress analysis verifying the structural integrity of the hybrid assembly under dynamic tracking loads.
