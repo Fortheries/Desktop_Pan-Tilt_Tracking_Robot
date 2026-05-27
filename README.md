@@ -31,17 +31,6 @@ To meet industrial standards and enhance functionality, this design incorporates
 
 ---
 
-## 🔩 Bill of Materials (BOM)
-| Category | Component | Specification | Qty |
-| :--- | :--- | :--- | :--- |
-| **Advanced Part** | Adapter Plates | **Stainless Steel 304 (Laser Cut)** | 2 |
-| **Custom Part** | Main Base | Reinforced Polymer (3D Printed) | 9 |
-| **Industrial** | Shaft Coupling | Flexible Aluminum Coupling | 1 |
-| **Commercial** | Fasteners | M3 Socket Head Screws & Hex Nuts | 35 |
-| **Electronics** | Vision Unit | ESP32-CAM & High-Torque Mini Servos | 1 |
-
----
-
 ## 🚀 Key Features
 * **Ultra-Rigid SS Interface:** Dual stainless steel adapters provide a zero-flex platform, crucial for high-speed camera stabilization.
 * **Modular Mounting:** 20x12mm mounting pattern allows for seamless sensor swapping without structural redesign.
