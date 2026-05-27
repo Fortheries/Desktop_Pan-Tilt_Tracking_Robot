@@ -26,7 +26,7 @@ To meet industrial standards and enhance functionality, this design incorporates
 * 📂 **`Models/`** - Master `.F3Z` (Assembly) and `.STEP` files with complete design history/timeline.
 * 📂 **`Simulation/`** - Structural analysis reports, Safety Factor, and Displacement heatmaps.
 * 📂 **`Renders/`** - High-resolution photorealistic images of the final Desktop Tracking Robot.
-* 📂 **`Fabrication/`** - Production-ready DXF files, 3D printing meshes, and Technical 2D Drawings (.PDF).
+* 📂 **`Fabrication/`** - Production-ready DXF files, and 3D printing meshes.
 * 📂 **`Documentation/`** - Detailed Bill of Materials (BOM) and component specifications.
 
 ---
